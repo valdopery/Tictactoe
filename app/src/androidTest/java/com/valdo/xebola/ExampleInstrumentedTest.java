@@ -1,4 +1,4 @@
-package com.valdo.tictactoe;
+package com.valdo.xebola;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.valdo.tictactoe", appContext.getPackageName());
+        assertEquals("com.valdo.xebola", appContext.getPackageName());
     }
 }

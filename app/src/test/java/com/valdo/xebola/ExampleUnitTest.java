@@ -1,4 +1,4 @@
-package com.valdo.tictactoe;
+package com.valdo.xebola;
 
 import org.junit.Test;
 
